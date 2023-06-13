@@ -100,7 +100,7 @@ class DataTransformation:
 
             save_object(
 
-                file_path=self.data_transformation_config.preprocessors_obj_file_path ,
+                file_path=self.data_transformation_config.preprocessors_obj_file_path x,
                 obj=preprocessors_obj
 
             )
